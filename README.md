@@ -2,7 +2,7 @@
 <h3 align="center">🎯 Con experiencia en transformar datos que edifica puentes entre números complejos y soluciones claras - Python , SQL , Power Bi y Excel .</h3>
 <p align="left">
   Python : Análisis de datos con bibliotecas como Numpy, Pandas, Seaborn, Matplotlib.<br>
-  SQL 🗄: Consultas y manejo de datos con eficiencia y precisión.<br>
+  SQL : Consultas y manejo de datos con eficiencia y precisión.<br>
   Power Bi : Creación de dashboards interactivos y reportes dinámicos.<br>
   Excel : Automatización de tareas y análisis avanzado de datos.
 </p>
