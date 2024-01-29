@@ -6,8 +6,8 @@
   Power Bi : Creación de dashboards interactivos y reportes dinámicos.<br>
   Excel : Automatización de tareas y análisis avanzado de datos.
 </p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="mailto:frankr687@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="frankr687@gmail.com" height="30" width="40" />
   </a>
