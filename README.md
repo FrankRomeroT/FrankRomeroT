@@ -1,9 +1,9 @@
-<h1 align="center">Frank Romero Analista de Datos Apasionado</h1>
-<h3 align="center">Con experiencia en transformar datos complejos en decisiones estratégicas y insights accionables. Especializado en Python, SQL, Power Bi, Excel</h3>
+<h1 align="center">Frank Romero 👨‍💼 Analista de Datos Apasionado 📈</h1>
+<h3 align="center">Con experiencia en transformar datos que edifica puentes entre números complejos y soluciones claras 🌉🔍 - Python 🐍, SQL 📚, Power Bi 💡 y Excel 📐.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/frankromerot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/frankromerot" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/frankromerot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/frankromerot/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
