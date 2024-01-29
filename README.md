@@ -1,11 +1,7 @@
 <h1 align="center">✒️ Frank Romero 👨‍💼 Analista de Datos Apasionado 📈</h1>
 <h3 align="center">🎯 Con experiencia en transformar datos que edifica puentes entre números complejos y soluciones claras - Python , SQL , Power Bi y Excel .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frankromerot&label=Profile%20views&color=0e75b6&style=flat" alt="frankromerot" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frankromerot" alt="frankromerot" /></a> </p>
-
-- 📫 correo **frankr687@gmail.com**
+- 📫 **frankr687@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
